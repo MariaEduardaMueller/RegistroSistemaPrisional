@@ -9,7 +9,6 @@ O repositório tem **duas versões** do sistema:
 | **Desktop (Java)** | [`java/`](java) | Computador/notebook com banco de dados | MySQL |
 | **Offline (web)** | [`offline/`](offline) | Celular, tablet e computador, **sem internet** | Navegador do aparelho |
 
-> ⚠️ **Dados sensíveis.** O sistema trata dados de saúde e de identificação (LGPD). **Nunca** envie para este repositório registros reais, arquivos de backup (`backup_*.json`) ou senhas. Os dados de exemplo devem ser fictícios.
 
 ---
 
