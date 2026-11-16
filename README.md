@@ -10,6 +10,9 @@ O repositório tem **duas versões** do sistema:
 | **Offline (web)** | [`offline/`](offline) | Celular, tablet e computador, **sem internet** | Navegador do aparelho |
 
 
+<img width="732" height="428" alt="image" src="https://github.com/user-attachments/assets/49016dd4-ad5d-4e50-89ad-465a5d63bda5" />
+
+
 ---
 
 ## Funcionalidades
