@@ -12,6 +12,8 @@ O repositório tem **duas versões** do sistema:
 
 <img width="732" height="428" alt="image" src="https://github.com/user-attachments/assets/49016dd4-ad5d-4e50-89ad-465a5d63bda5" />
 
+## Sobre o Projeto Final
+Este repositório só traz a versão inicial do projeto, então diversas funcionalidades que estão no aplicativo final não são representadas aqui. 
 
 ---
 
@@ -104,12 +106,3 @@ Na tela de busca, selecione um ou mais registros e clique em **Relatório**: o A
 ## Tecnologias
 - **Java 22**, Swing, JDBC, MySQL
 - **HTML, CSS e JavaScript** puros (sem dependências), IndexedDB, Web Crypto (AES-GCM / PBKDF2)
-
-## Aviso legal e uso responsável
-Este projeto lida com informações pessoais e de saúde. Antes de usar com dados reais, garanta base legal e controles compatíveis com a **LGPD** (acesso restrito, criptografia do aparelho/banco, backups protegidos e política de retenção).
-
-## Autores
-<!-- Preencha com os nomes da equipe -->
-
-## Licença
-<!-- Defina a licença do projeto (ex.: MIT) ou remova esta seção -->
